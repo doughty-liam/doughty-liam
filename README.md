@@ -4,7 +4,7 @@ I am currently pursuing an Undergraduate degree at the University of Guelph in t
 
 I am looking for a summer internship to enhance my skills and knowledge of data science/analytics, machine learning, and the SDLC through hands-on work within a multi-disciplinary team. 
 
-For examples of my most recent work on neural network's, please see my _discord_ repository or contact me directly here: liamdoughty5@gmail.com.
+For examples of my most recent work on neural networks, please see my _discord_ repository or contact me directly here: liamdoughty5@gmail.com.
 
 
 
